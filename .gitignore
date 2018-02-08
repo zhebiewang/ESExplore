@@ -1,0 +1,11 @@
+# Sample data
+
+
+#ipython notebook
+
+/.ipynb_checkpoints
+/.ipynb_checkpoints/**
+
+#data
+/doc
+/doc/**
